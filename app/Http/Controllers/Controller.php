@@ -14,3 +14,5 @@ class Controller extends BaseController
 
 function Function1() {
 }
+function Function2() {
+}
