@@ -16,3 +16,5 @@ function Function1() {
 }
 function Function2() {
 }
+function Function3() {
+}
